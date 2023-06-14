@@ -4,7 +4,7 @@
 **/node_modules
 **/target
 **/build
-**/dist
+# **/dist
 **/out-tsc
 **/tmp
 **/test/reports
